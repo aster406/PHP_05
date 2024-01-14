@@ -92,7 +92,7 @@ function calc($yen, $product) {
     <section>
         <!-- ここに結果表示 -->
         <?php 
-            echo calc(155562, 130); 
+            echo calc(10000, 150); 
         ?>
     </section>
 </body>
